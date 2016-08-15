@@ -1,0 +1,6 @@
+CREATE OR REPLACE PROCEDURE sp_herbertproc
+AS
+BEGIN
+	NULL;
+	--SAMPLE
+END;
